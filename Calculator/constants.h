@@ -1,0 +1,19 @@
+// Set some constant variables
+const char let = 'L';
+const char squarert = 'S';
+const char change = 'O';
+const char power = 'P';
+const char newline ='\n';
+const char help = 'h';
+const char quit = 'q';
+const char print = ';';
+const char number = '8';
+const char name = 'a';
+const char constant = 'c';
+const string declkey = "#";
+const string quitkey = "quit";
+const string chngkey = "~";
+const string sqrtkey = "sqrt";
+const string powkey = "pow";
+const string constkey = "const";
+const string helpkey = "help";
